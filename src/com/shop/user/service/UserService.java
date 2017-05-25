@@ -6,7 +6,7 @@ import com.shop.user.dao.UserDao;
 import com.shop.user.model.User;
 
 @Transactional
-public class UserService {
+public class UserService {  
 
 	
 	private UserDao userDao;

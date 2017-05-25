@@ -4,7 +4,7 @@
 	"http://struts.apache.org/dtds/struts-2.3.dtd">
 
 <struts>
-
+ 
     <package name="shop" extends="struts-default" namespace="/">
         
         <action name="index" class="indexAction">
