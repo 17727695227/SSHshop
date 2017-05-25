@@ -8,7 +8,7 @@ import com.shop.user.model.User;
 @Transactional
 public class UserService {  
    
-	
+	  
 	private UserDao userDao;
 	
 	public UserDao getUserDao() {
