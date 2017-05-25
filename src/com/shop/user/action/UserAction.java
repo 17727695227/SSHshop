@@ -54,6 +54,17 @@ public class UserAction extends ActionSupport implements ModelDriven<User>{
 		
 	}
 
+	
+	public String regist()throws Exception{
+		
+		return null;
+		
+	}
+	
+	
+	
+	
+	
 	public UserService getUserService() {
 		return userService;
 	}
